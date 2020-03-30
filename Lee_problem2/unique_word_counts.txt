@@ -1,0 +1,5 @@
+the					1
+hello					2
+cash					1
+hey					1
+flow					1
